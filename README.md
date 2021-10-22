@@ -15,5 +15,9 @@
 <img align="center" alt=""html5 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="center" alt=""html5 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="center" alt=""html5 src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-</div>
+</div><br/>
+
+Cada vez mais apaixonado pelo universo da tecnologia!! Estudando cada vez mais na escola técnica da ETEC e sempre buscando o meu melhor!!
+
+
 

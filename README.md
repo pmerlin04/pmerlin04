@@ -1,7 +1,7 @@
 ### Eaee! Eu sou o Pedro Merlin👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p_merlin04/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henryque-merlin-justino-da-conceica0-a30374211)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henryque-merlin-justino-da-concei%C3%A7%C3%A3o-a30374211/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://https://www.facebook.com/pedro.merlinjustinodaconceicao/)
 
 

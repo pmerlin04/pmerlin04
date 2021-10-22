@@ -7,6 +7,9 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pmerlin04&show_icons=true&theme=)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmerlin04)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Tecnologias que eu utilizo
 
 <div style = "display: inline_block"><br>

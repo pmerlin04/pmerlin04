@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Pedro Merlin 👋
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henryque-merlin/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p_merlin04/)
 
 ![pmerlin04 GitHub stats](https://github-readme-stats.vercel.app/api?username=pmerlin04&show_icons=true&theme=dark)
 

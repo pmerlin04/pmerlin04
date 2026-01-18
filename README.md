@@ -18,4 +18,4 @@
      <img alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
-Formado em Desenvolvimento de Sistemas, apaixonado e descobrindo cada vez mais o mundo da tecnologia.
+Formado no curso superior em Análise e Desenvolvimento de Sistemas, apaixonado e descobrindo cada vez mais o mundo da tecnologia.
